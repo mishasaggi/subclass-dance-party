@@ -17,3 +17,9 @@ makeDancer.prototype.setPosition = function(top, left){
   };
   return styleSettings;
 };
+/*
+makeDancer.prototype.lineUp = function(){
+  //this.$node.toggleClass( 'lineUp', true);
+
+
+};*/
